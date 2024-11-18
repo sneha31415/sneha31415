@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)](https://sneha31415.io) -->
-<h1 align="center">Hi 👋, I'm Sneha Singh</h1>
+<h1 align="center">Hi 👋, I'm Sneha</h1>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
 
 - 🏫 I'm currently pursuing B-Tech in **Information Technology** from **VJTI Mumbai**. 
